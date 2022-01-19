@@ -1,0 +1,26 @@
+h1 {
+    background-color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    justify-content: center;
+    text-align: center;
+    padding: 10px 20px 10px 20px;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+h5 {
+    color: red;
+}
+
+.thick-green-border {
+    border-color: blue;
+    border-width: 10px;
+    border-style: ridge;
+    border-radius: 50%;
+}
